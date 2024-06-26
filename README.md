@@ -4,3 +4,8 @@ Hello my **nickname** is Miyo, I am a **former** turbowarp extension developer (
 I dont really do much honestly, just the occasional contribution to turbowarp and stuff.
 
 Website: https://surv.is-a.dev/
+
+Funny github statistic stuff
+
+[https://github-readme-stats.vercel.app/](https://github-readme-stats.vercel.app/api?username=yuri-kiss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[https://github-readme-stats.vercel.app/](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-kiss&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

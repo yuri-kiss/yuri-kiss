@@ -7,5 +7,4 @@ Website: https://surv.is-a.dev/
 
 Funny github statistic stuff
 
-[https://github-readme-stats.vercel.app/](https://github-readme-stats.vercel.app/api?username=yuri-kiss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[https://github-readme-stats.vercel.app/](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-kiss&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![Miyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-kiss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

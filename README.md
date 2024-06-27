@@ -4,6 +4,7 @@ Hello my **nickname** is Miyo, I am a **former** turbowarp extension developer (
 - Pronouns: `she / her`
 
 I dont really do much honestly, just the occasional contribution to turbowarp and stuff.
+One thing you should know is I have a very short temper.
 
 Website: https://surv.is-a.dev/ (should have all my socials)
 

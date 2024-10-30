@@ -1,1 +1,1 @@
-Website: https://surv.is-a.dev/
+Website: https://miyo.lol/
